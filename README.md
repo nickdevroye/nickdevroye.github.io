@@ -12,7 +12,7 @@ I am an aspiring Data Scientist and Machine Learning Researcher with a strong fo
 ## Certifications
 
 - ✅ **MIT IDSS - Data Science & Machine Learning (Sep 2024 - Jan 2025)**  
-  - Developed a deep learning image classifier (80% accuracy, 50K images) using TensorFlow & Keras  
+  - Developed a deep learning image classifier (80% accuracy, 4K images) using TensorFlow & Keras  
 
 - ✅ **Oak Ridge National Lab - HPC Crash Course (Oct 2024)**  
   - Hands-on experience in parallel computing & distributed processing for large-scale AI computations  
