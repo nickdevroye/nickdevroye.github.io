@@ -1,0 +1,52 @@
+/* Enable Dark Mode for GitHub Pages Jekyll Minimal Theme */
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Styling for Links */
+a {
+    color: #76c7c0;
+}
+a:hover {
+    color: #ffcc00;
+}
+
+/* Improve Header Styling */
+h1, h2, h3 {
+    color: #ffffff;
+    border-bottom: 2px solid #76c7c0;
+}
+
+/* Adjust Container for Better Spacing */
+.wrapper {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background: #1e1e1e;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.1);
+}
+
+/* Navigation Links */
+.navbar {
+    background: #1e1e1e;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.navbar a {
+    color: #76c7c0;
+    font-weight: bold;
+    padding: 8px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 10px;
+    color: #bbbbbb;
+    background: #1e1e1e;
+    border-top: 2px solid #76c7c0;
+}
